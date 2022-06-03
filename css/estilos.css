@@ -433,8 +433,10 @@ footer{
   .contenedor-proyectos{
     flex-direction: column;
   }
-  .proyecto-item{
+  div.proyecto-item{
     width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
   }
   .contenedor-formulario{
     max-width: 23.50rem;
@@ -453,9 +455,10 @@ footer{
   .bio{
     width:15rem;
   }
-  .contenedor-proyectos{
-    margin:0 auto;
-    width:15rem
+   div.proyecto-item{
+   
+    margin-left: auto;
+    margin-right: auto;
   }
 
   
