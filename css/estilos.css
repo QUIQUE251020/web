@@ -376,7 +376,7 @@ footer{
   }
   nav ul{  
     position: fixed;
-    display: flex;
+    display: none;
     flex-direction: column;
     top:86px;
     left: 10%;
