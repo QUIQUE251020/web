@@ -368,7 +368,10 @@ footer{
     position:absolute;
     top:center;
     left:center;
-    
+  }
+  .foto-proyecto {
+    width: 100%;
+    height: 100%;
   }
   div h1{
     display:none;
